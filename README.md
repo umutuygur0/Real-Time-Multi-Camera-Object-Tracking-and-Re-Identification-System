@@ -90,12 +90,6 @@ The system enables **real-time multi-object tracking (MOT)**, **cross-camera per
 
 ---
 
-## 🖼️ Screenshots / Architecture Diagram  
-
-*(Add your system architecture image and some UI screenshots here)*  
-
----
-
 ## 🙏 Acknowledgements  
 
 Special thanks to **Havelsan Teknoloji Radar (HTR)** for the opportunity to work on a **full-stack computer vision project** and contribute to a real-world scalable system.  
